@@ -1,4 +1,4 @@
-# C++ Casino Royale
+# C++ Casino
 
 A modular, console-based casino suite built in C++. This project demonstrates effective multi-file organization, using a central "index" controller to manage distinct game modules.
 
