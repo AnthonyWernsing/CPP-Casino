@@ -1,6 +1,0 @@
-﻿  Casino.cpp
-C:\Users\Anthony Wernsing\Desktop\BlackJack2\BlackJack\BlackJack\BlackJack.h(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Anthony Wernsing\Desktop\BlackJack2\BlackJack\BlackJack\Number Guesser.h(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Anthony Wernsing\Desktop\BlackJack2\BlackJack\BlackJack\Dice.h(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Anthony Wernsing\Desktop\BlackJack2\BlackJack\BlackJack\Dice.h(7,6): warning C4101: 'option': unreferenced local variable
-  BlackJack.vcxproj -> C:\Users\Anthony Wernsing\Desktop\BlackJack2\BlackJack\Debug\BlackJack.exe
